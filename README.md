@@ -30,5 +30,5 @@ Page de publicités qui s'ouvre en boucle et en toute langue. Publicité bizarre
 # Also on Mac
 
 <p align="center">
-  <img alt="Fourth image on Windows" src="https://b-20.webself.net/file/si1538420/4-fi23594966x675.jpg">
+  <img alt="Also on Mac" src="https://b-20.webself.net/file/si1538420/5-fi23595162x680.png">
 </p>
