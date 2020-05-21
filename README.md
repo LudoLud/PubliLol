@@ -9,6 +9,8 @@ Advertising page that opens in a loop and in any language. Weird, strange, funny
 
 Page de publicités qui s'ouvre en boucle et en toute langue. Publicité bizarre, étrange, drôle, ect. Facile à enlever.
 
+# Windows
+
 <p align="center">
   <img alt="First image on Windows" src="https://b-20.webself.net/file/si1538420/1-fi23594953x640.jpg">
 </p>
