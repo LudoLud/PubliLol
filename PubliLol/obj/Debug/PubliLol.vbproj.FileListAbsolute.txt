@@ -16,3 +16,8 @@ C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.poids.resources
 C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.vraipoison.resources
 C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.porc.resources
 C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.Start.resources
+C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.Pig.resources
+C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.Tutu.resources
+C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.Grandmairre.resources
+C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.Tander.resources
+C:\Users\ludov\source\repos\PubliLol\PubliLol\obj\Debug\PubliLol.Vache.resources
