@@ -9,7 +9,7 @@ Advertising page that opens in a loop and in any language. Weird, strange, funny
 
 Page de publicités qui s'ouvre en boucle et en toute langue. Publicité bizarre, étrange, drôle, ect. Facile à enlever.
 
-# Windows
+# On Windows
 
 <p align="center">
   <img alt="First image on Windows" src="https://b-20.webself.net/file/si1538420/1-fi23594953x640.jpg">
@@ -22,6 +22,12 @@ Page de publicités qui s'ouvre en boucle et en toute langue. Publicité bizarre
 <p align="center">
   <img alt="Third image on Windows" src="https://b-20.webself.net/file/si1538420/3-fi23594964x675.jpg">
 </p>
+
+<p align="center">
+  <img alt="Fourth image on Windows" src="https://b-20.webself.net/file/si1538420/4-fi23594966x675.jpg">
+</p>
+
+# Also on Mac
 
 <p align="center">
   <img alt="Fourth image on Windows" src="https://b-20.webself.net/file/si1538420/4-fi23594966x675.jpg">
