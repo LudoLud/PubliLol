@@ -63,7 +63,7 @@ Partial Class Start
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(47, 13)
         Me.Label1.TabIndex = 7
-        Me.Label1.Text = "Beta 0.1"
+        Me.Label1.Text = "Beta 0.2"
         '
         'Start
         '

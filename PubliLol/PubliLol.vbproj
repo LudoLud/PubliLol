@@ -82,6 +82,12 @@
     <Compile Include="basic.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Grandmairre.Designer.vb">
+      <DependentUpon>Grandmairre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Grandmairre.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -97,6 +103,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pig.Designer.vb">
+      <DependentUpon>Pig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pig.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="poids.Designer.vb">
       <DependentUpon>poids.vb</DependentUpon>
@@ -122,6 +134,24 @@
     <Compile Include="Start.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Tander.Designer.vb">
+      <DependentUpon>Tander.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tander.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tutu.Designer.vb">
+      <DependentUpon>Tutu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tutu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vache.Designer.vb">
+      <DependentUpon>Vache.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vache.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="vraipoison.Designer.vb">
       <DependentUpon>vraipoison.vb</DependentUpon>
     </Compile>
@@ -139,11 +169,17 @@
     <EmbeddedResource Include="basic.resx">
       <DependentUpon>basic.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Grandmairre.resx">
+      <DependentUpon>Grandmairre.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pig.resx">
+      <DependentUpon>Pig.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="poids.resx">
       <DependentUpon>poids.vb</DependentUpon>
@@ -156,6 +192,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Start.resx">
       <DependentUpon>Start.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tander.resx">
+      <DependentUpon>Tander.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tutu.resx">
+      <DependentUpon>Tutu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vache.resx">
+      <DependentUpon>Vache.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="vraipoison.resx">
       <DependentUpon>vraipoison.vb</DependentUpon>

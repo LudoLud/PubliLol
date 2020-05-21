@@ -5,9 +5,8 @@
 
     Private Sub wow_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
         If e.CloseReason = CloseReason.UserClosing Then
-            e.Cancel = True
-            Dim porc8 As New porc
-            porc8.Show()
+            Dim Tutu2 As New Tutu
+            Tutu2.Show()
         End If
     End Sub
 

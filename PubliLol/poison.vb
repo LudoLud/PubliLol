@@ -12,7 +12,7 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim basic3 As New basic
-        basic3.Show()
+        Dim Vache As New Vache
+        Vache.Show()
     End Sub
 End Class

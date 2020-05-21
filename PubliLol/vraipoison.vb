@@ -6,8 +6,8 @@
     Private Sub vraipoison_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
         If e.CloseReason = CloseReason.UserClosing Then
             e.Cancel = True
-            Dim vraipoison2 As New vraipoison
-            vraipoison2.Show()
+            Dim pig2 As New Pig
+            pig2.Show()
         End If
     End Sub
 

@@ -4,6 +4,7 @@
         Button2.Visible = False
         Me.ShowInTaskbar = False
         Label1.Visible = False
+        NotifyIcon1.ShowBalloonTip(500, "PubliLol is running.", "PubliLol is running. To turn it off, click on the icon in your notification bar and select (Yes)", ToolTipIcon.Info)
         basic.Show()
     End Sub
 
