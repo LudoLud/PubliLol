@@ -3,11 +3,11 @@
 
 # English
 
-Advertising page that opens in a loop and in any language. Weird, strange, funny advertisement, ect. Easy to remove.
+PubliLol is a small piece of software that makes fun of a kind of malware called "Adware". To describe, this will show you really funny and stupid ads where they will make sense of their existence. PubliLol does not affect the computer and can only crash if it is running too long. It is simple to use, programmed in VB .NET, easy to remove and modify. Software that will make you have a good time.
 
 # Français
 
-Page de publicités qui s'ouvre en boucle et en toute langue. Publicité bizarre, étrange, drôle, ect. Facile à enlever.
+PubliLol est un petit logiciel qui se moque d'une sorte de malware appelé "Adware". En gros, cela va vous montrer des publicités vraiment drôles et stupides où elles chercheront un sens à leur existence. PubliLol n'affecte pas l'ordinateur et ne peut le planter que s'il fonctionne trop longtemps. Il est simple à utiliser, programmé en VB .NET, facile à retirer et à modifier. Un logiciel qui vous fera passer un bon moment.
 
 # On Windows
 
